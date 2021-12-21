@@ -1,16 +1,14 @@
-# flutter_movie
+# MOMOVIE 🎥
 
-A new Flutter project.
+### Description:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Discover what to watch:
+- Popular TV Shows
+- Trending Movies
+- Top Rated Movies
+ 
+### Screeshots
+<p float="left">
+<img src="https://user-images.githubusercontent.com/66002375/146893500-e79ab7b9-8e7a-4a9c-8655-9c50cbd60ff3.png" widht="200" height="400">
+<img src="https://user-images.githubusercontent.com/66002375/146893506-feb2bdd1-5ebc-40fe-9004-8c93af850ffd.png" widht="200" height="400">
+</p>
